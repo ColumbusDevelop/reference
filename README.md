@@ -1,3 +1,3 @@
 # Reference
 
-[x] https://www.learncpp.com
+- [x] https://www.learncpp.com
